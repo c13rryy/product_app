@@ -6,4 +6,4 @@
 - react-hook-form
 - zod
 - tailwind
-- redux(rtk-query)
+- reduxjs/toolkit + (rtk-query)
