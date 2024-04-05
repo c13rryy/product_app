@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "title": "Check(test)",
+      "description": "sdadasasd",
+      "price": 22,
+      "image": "https://i.pinimg.com/originals/d3/0f/c8/d30fc877ade673509416fa5fe9917f71.jpg",
+      "publish": false,
+      "id": "6fe5"
+    },
+    {
+      "title": "More12",
+      "description": "some text",
+      "price": 120,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3JZGCyzWfg-HGe3Gm2uEGr2rnaqU6NOmhmNBqiEsaeg&s",
+      "publish": false,
+      "id": "f712"
+    }
+  ]
+}
